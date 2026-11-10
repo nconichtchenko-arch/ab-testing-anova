@@ -5,9 +5,11 @@ Pet-проект: сравнение трех и более групп с исп
 ## 📸 Скриншоты
 
 **Результаты ANOVA и post-hoc теста Тьюки:**
+
 ![ANOVA Console](assets/anova_console.png)
 
 **Визуализация конверсии по группам:**
+
 ![Boxplot](assets/anova_boxplot.png)
 
 ## 🎯 Зачем это
